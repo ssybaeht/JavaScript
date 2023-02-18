@@ -1,0 +1,16 @@
+body{
+    font: normal 10pt Arial;
+    background-image: linear-gradient(180deg, rgb(243, 205, 255), rgb(142, 142, 245));
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+    height: 180;
+}
+div#soma{
+    margin-top: 10px;
+    font: normal 15pt Arial;
+}
+input{
+    font: normal 10pt Arial;
+    width: 100px;
+}
